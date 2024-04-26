@@ -1,7 +1,7 @@
 # This submission is for the Sync 2024 Summit Statathon
 
 ## About the Summit
-At a crossroads of urgent challenge and change, the Sync Digital Wellbeing Summit 2024 invites you to join us in reflection, conversation and a call-to-action around ensuring that we as humans come together to keep digital technology in check and working towards the greater good – safeguarding its future, and our own.
+The Sync Digital Wellbeing Summit 2024 is about holding discusisons and building thought leadership around keeping digital technology in check and working towards safeguarding the future of humanity and the future use of digital technology.
 
 ## Notebook Authors
 * Data cleaning: 
