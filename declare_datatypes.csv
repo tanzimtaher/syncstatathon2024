@@ -1,0 +1,382 @@
+Column Name,dtype
+Unique ID,str
+Participant identifier,str
+HIDDEN: QCOUNTRY,str
+HIDDEN: QSAMPLE,str
+Gender,str
+Please enter your age.,int64
+Age bracket,str
+What is the last level of schooling you completed?,str
+What best describes your employment status?,str
+Do you have Children?,str
+How many children under the age of 18 do you have?,float64
+Child 1 : How old are each of your children?,float64
+Child 2 : How old are each of your children?,float64
+Child 3 : How old are each of your children?,float64
+Child 4 : How old are each of your children?,float64
+Child 5 : How old are each of your children?,float64
+Child 6 : How old are each of your children?,float64
+Child 7 : How old are each of your children?,float64
+Child 8 : How old are each of your children?,float64
+Child 9 : How old are each of your children?,float64
+Child 10 : How old are each of your children?,float64
+HIDDEN: QAUDIENCE,str
+"Overall, how satisfied are you with your life?",int64
+"Overall, how optimistic are you about your future?",int64
+I feel that my decisions reflect what I really want : To what extent do you agree or disagree with the following statements about your life situation?,str
+I feel confident that I can do things well : To what extent do you agree or disagree with the following statements about your life situation?,str
+I feel close and connected with other people who are important to me : To what extent do you agree or disagree with the following statements about your life situation?,str
+Which of the following statements best describes your attitude towards new technology?,str
+Which is closer to your view about digital technology?,str
+Which is closer to your view about digital technology?.1,str
+"Over the past 12 months, thinking about the balance between your online and offline lives, would you say that you have become better or worse at controlling your use of digital technology?",str
+Smartphone : How concerned are you by the following technologies on your health?,str
+Social Media : How concerned are you by the following technologies on your health?,str
+Access to high-quality affordable healthcare : Which of the following is more important to you?,str
+Living in a safe neighbourhood : Which of the following is more important to you?,str
+ Access to high-quality affordable education : Which of the following is more important to you?,str
+"Thinking about past year, which activities have you done on a digital device?: Planned a holiday or vacation",str
+"Thinking about past year, which activities have you done on a digital device?: Accessed entertainment (streaming services, sports streaming and videos, gaming, music, books)",str
+"Thinking about past year, which activities have you done on a digital device?: Looked for offline events and activities",str
+"Thinking about past year, which activities have you done on a digital device?: Engaged with artistic and/ or cultural content (e.g. art, music, literature, fashion, heritage artefacts etc.)",str
+"Thinking about past year, which activities have you done on a digital device?: Created and/ or shared your artistic and/ or cultural content (e.g. art, music, literature, fashion, heritage artefacts etc.)",str
+QHORIZON2r96,int64
+"Thinking about past year, which activities did you do using a digital device?: Stayed connected with family, friends and colleagues",str
+"Thinking about past year, which activities did you do using a digital device?: Met new people",str
+"Thinking about past year, which activities did you do using a digital device?: Engaged in or organized action on an important issue",str
+"Thinking about past year, which activities did you do using a digital device?: Developed personal conversations or relationships with virtual assistants (e.g. computer-generated bots like ChatGPT, Alexa or Siri)",str
+QHORIZON4r96,int64
+"Thinking about past year, which activities have you done on a digital device?: Organized transportation of any kind (e.g. looking up public transport times, booking tickets, ordering a taxi or car sharing service)",str
+"Thinking about past year, which activities have you done on a digital device?: Paid for goods or services online",str
+"Thinking about past year, which activities have you done on a digital device?: Participated in online health and fitness activities",str
+"Thinking about past year, which activities have you done on a digital device?: Monitored my health and fitness metrics",str
+"Thinking about past year, which activities have you done on a digital device?: Consulted a health professional",str
+QHORIZON5r96,int64
+Which is closer to your view about digital technology in the workplace?,str
+Which of the following is closer to your opinion? I think that people are more productive in their work when they are...,str
+"Which of the following is closer to your opinion? Outside of agreed ""on-call"" duties, when a person is working in a job they should expect...",str
+To what extent do you agree or disagree with the following statement? “Schools should prevent all children from having access to their phones throughout the school day”,str
+How important is your digital device in helping you to access educational/work-related resources?,str
+Which of the following best describes how you have worked and/or studied over the last 12 months?,str
+"When working or studying remotely, how easy or difficult do you find it to maintain boundaries between your work and personal life or rest? Boundaries when working remotely could involve having a designated workspace, adhering to consistent work and rest hours, avoiding multitasking, unplugging from work-related tasks at the end of the day.",str
+"When working or studying remotely, which measures do you consistently take to ensure your wellness?: Taking regular breaks during which you don’t use technology",str
+"When working or studying remotely, which measures do you consistently take to ensure your wellness?: Doing exercise for eyes",str
+"When working or studying remotely, which measures do you consistently take to ensure your wellness?: Using equipment that maintains/ improves your physique (e.g. ergonomic chair, standing desk, wrist-supporting mousepad or keyboard, etc.)",str
+"When working or studying remotely, which measures do you consistently take to ensure your wellness?: Making sure you meet people in-person",str
+"When working or studying remotely, which measures do you consistently take to ensure your wellness?: Making sure you engage in a physical activity",str
+"When working or studying remotely, which measures do you consistently take to ensure your wellness?: Using technology to track and monitor your wellbeing (e.g. screentime)",str
+QHORIZON10b_REMOTEr97,float64
+QHORIZON10b_REMOTEr96,float64
+"When working or studying, which measures do you consistently take to ensure your wellness?: Taking regular breaks during which you don’t use technology",str
+"When working or studying, which measures do you consistently take to ensure your wellness?: Doing exercise for eyes",str
+"When working or studying, which measures do you consistently take to ensure your wellness?: Using equipment that maintains/ improves your physique (e.g. ergonomic chair, standing desk, wrist-supporting mousepad or keyboard, etc.)",str
+"When working or studying, which measures do you consistently take to ensure your wellness?: Making sure you meet people in-person",str
+"When working or studying, which measures do you consistently take to ensure your wellness?: Making sure you engage in a physical activity",str
+"When working or studying, which measures do you consistently take to ensure your wellness?: Using technology to track and monitor your wellbeing (e.g. screentime)",str
+QHORIZON10b_ONSITEr97,float64
+QHORIZON10b_ONSITEr96,float64
+"Thinking about a typical week of working or studying remotely, which emotional states do you commonly experience?: Loneliness",str
+"Thinking about a typical week of working or studying remotely, which emotional states do you commonly experience?: Difficulty concentrating",str
+"Thinking about a typical week of working or studying remotely, which emotional states do you commonly experience?: Stress or anxiety",str
+"Thinking about a typical week of working or studying remotely, which emotional states do you commonly experience?: Lack of motivation to perform tasks",str
+"Thinking about a typical week of working or studying remotely, which emotional states do you commonly experience?: Irritability",str
+"Thinking about a typical week of working or studying remotely, which emotional states do you commonly experience?: Guilt or a sense of failure",str
+QHORIZON10c_REMOTEr96,float64
+"Thinking about a typical week of working or studying, which emotional states do you commonly experience?: Loneliness",str
+"Thinking about a typical week of working or studying, which emotional states do you commonly experience?: Difficulty concentrating",str
+"Thinking about a typical week of working or studying, which emotional states do you commonly experience?: Stress or anxiety",str
+"Thinking about a typical week of working or studying, which emotional states do you commonly experience?: Lack of motivation to perform tasks",str
+"Thinking about a typical week of working or studying, which emotional states do you commonly experience?: Irritability",str
+"Thinking about a typical week of working or studying, which emotional states do you commonly experience?: Guilt or a sense of failure",str
+QHORIZON10c_ONSITEr96,float64
+"Thinking about past year, which activities have you done on a digital device?: Took an educational course which gives a formal degree or certificate",str
+"Thinking about past year, which activities have you done on a digital device?: Found information or news",str
+"Thinking about past year, which activities have you done on a digital device?: Applied for a job",str
+"Thinking about past year, which activities have you done on a digital device?: Automated some of your work or education tasks (e.g. writing standardised text for emails or word processors, retrieving and updating data using spreadsheets, using generative artificial intelligence, etc.)",str
+"Thinking about past year, which activities have you done on a digital device?: Collaborated with peers on a work or educational task",str
+"Thinking about past year, which activities have you done on a digital device?: Started an online business",str
+"Thinking about past year, which activities have you done on a digital device?: Sold products or services online",str
+"Thinking about past year, which activities have you done on a digital device?: Managed my finances online",str
+QHORIZON3r96,int64
+In which of the following areas do you expect new and emerging technology will have the biggest impact on your job?,str
+"What impact, if any, do you think new and emerging technology will have on the availability of jobs in your country?",str
+Which of the following best describe how you feel about the future of technology?: Excited,str
+Which of the following best describe how you feel about the future of technology?: Pleased,str
+Which of the following best describe how you feel about the future of technology?: Content,str
+Which of the following best describe how you feel about the future of technology?: Optimistic,str
+Which of the following best describe how you feel about the future of technology?: Safe,str
+Which of the following best describe how you feel about the future of technology?: Comfortable,str
+Which of the following best describe how you feel about the future of technology?: Relaxed,str
+Which of the following best describe how you feel about the future of technology?: Relieved,str
+Which of the following best describe how you feel about the future of technology?: Hesitant,str
+Which of the following best describe how you feel about the future of technology?: Overwhelmed,str
+Which of the following best describe how you feel about the future of technology?: Anxious,str
+Which of the following best describe how you feel about the future of technology?: Concerned,str
+Which of the following best describe how you feel about the future of technology?: Scared,str
+Which of the following best describe how you feel about the future of technology?: Agitated,str
+Which of the following best describe how you feel about the future of technology?: Powerless,str
+Which of the following best describe how you feel about the future of technology?: Frustrated,str
+Which of the following best describe how you feel about the future of technology?: Indifferent,str
+Which of the following best describe how you feel about the future of technology?: Ambivalent,str
+Q2023ET2r96,int64
+Which of the following technologies do you think will have the biggest impact on your life?,str
+Which of the following parts of your life do you expect new and emerging technology to have the most influence on?,str
+How confident would you be in describing the concept of Artificial Intelligence (AI) to a friend or family member?,str
+Which is closer to your view about Artificial Intelligence (AI)?,str
+Have you ever used Artificial Intelligence (AI) tools (such as ChatGPT and Google Bard) in a work or social context?,str
+"Thinking about the use of Artificial Intelligence (AI) in your work role, will it make you...",str
+I would use an Artificial Intelligence (AI) provided service such as a chatbot to talk through a minor mental health challenge : How strongly do you agree or disagree with the following statements?,str
+I would let my child be taught by an Artificial Intelligence (AI) generated school teacher : How strongly do you agree or disagree with the following statements?,str
+I would let myself be diagnosed by an Artificial Intelligence (AI) generated doctor : How strongly do you agree or disagree with the following statements?,str
+I would use an Artificial Intelligence (AI) generated companion to support me in day to day tasks : How strongly do you agree or disagree with the following statements?,str
+How strongly do you agree or disagree with the following... “Artificial Intelligence (AI) research should be paused until appropriate regulations are in place”,str
+Which of the following is closer to your view about social media?,str
+Which is closer to your view about social media?,str
+"Would you say you have participated (posted, liked, viewed content) in social media (Twitter, Facebook, TikTok etc.) at least once in the past 12 months?",str
+"Thinking about past year, how would you describe your level of engagement in social media? Please rate on a scale of 1 to 4 where 1 represents using social media actively and 4 represents using social media passively. Passive engagement: only reading comments, watching videos and looking at images without further interaction Active engagement: in addition to the above, making positive comments, interacting with peers and posting or liking content regularly",str
+Which of the following is closer to your opinion? My social media use means...,str
+Which of the following is closer to your opinion? My social media use means....1,str
+Which of the following would you say is the biggest reason why you do not use social media?: To protect my personal information and privacy,str
+Which of the following would you say is the biggest reason why you do not use social media?: The fear of misinformation,str
+Which of the following would you say is the biggest reason why you do not use social media?: The fear of bullying and harassment,str
+Which of the following would you say is the biggest reason why you do not use social media?: It is against my religious belief,str
+Which of the following would you say is the biggest reason why you do not use social media?: I cannot afford the data/ internet costs required,str
+Which of the following would you say is the biggest reason why you do not use social media?: I do not have the internet bandwidth required,str
+Which of the following would you say is the biggest reason why you do not use social media?: It causes disruption to my sleep patterns,str
+Which of the following would you say is the biggest reason why you do not use social media?: It causes me to be sedentary,str
+Which of the following would you say is the biggest reason why you do not use social media?: It takes time from other activities I would rather do,str
+Which of the following would you say is the biggest reason why you do not use social media?: It has a negative impact on my physical health,str
+Which of the following would you say is the biggest reason why you do not use social media?: It has a negative impact on my mental health,str
+Which of the following would you say is the biggest reason why you do not use social media?: It has a negative impact on my productivity,str
+Which of the following would you say is the biggest reason why you do not use social media?: It has a negative impact on my social interactions,str
+Which of the following would you say is the biggest reason why you do not use social media?: I am worried I may become addicted,str
+Which of the following would you say is the biggest reason why you do not use social media?: I don’t like it,str
+Q2023SM3r97,float64
+Q2023SM3r98,float64
+"found that you have only been able to think of the next time you will be able to use social media? : During the past year, when using social media have you...",str
+"felt dissatisfied because you wanted to spend more time on social media? : During the past year, when using social media have you...",str
+"felt bad when you could not use social media? : During the past year, when using social media have you...",str
+"tried to spend less time on social media, but failed? : During the past year, when using social media have you...",str
+"neglected other activities (e.g. hobbies, sport) because you wanted to use social media? : During the past year, when using social media have you...",str
+"had arguments with others because of your social media use? : During the past year, when using social media have you...",str
+"lied to your parents or friends about the amount of time you spend on social media? : During the past year, when using social media have you...",str
+"used social media to escape from negative feelings? : During the past year, when using social media have you...",str
+"had serious conflict with family members because of your social media use? : During the past year, when using social media have you...",str
+How strongly do you agree or disagree with the following statement? “Social media is designed to be addictive“,str
+Using social media leaves me feeling positive/joyful/happy. : Consider your personal use (not work-related) of social media over the past 6 months. How frequently would you say...,str
+I become pleasantly absorbed in what I’m doing on social media. : Consider your personal use (not work-related) of social media over the past 6 months. How frequently would you say...,str
+I feel valued and supported by my social media friends/contacts. : Consider your personal use (not work-related) of social media over the past 6 months. How frequently would you say...,str
+My use of social media is well-aligned with my values. : Consider your personal use (not work-related) of social media over the past 6 months. How frequently would you say...,str
+Social media contributes towards me accomplishing goals that are important to me. : Consider your personal use (not work-related) of social media over the past 6 months. How frequently would you say...,str
+CyberBullying_QOB1,str
+"Which of the following best describes the bullying, harassment or threatening behavior you experienced online?: Personal insults",str
+"Which of the following best describes the bullying, harassment or threatening behavior you experienced online?: Blackmail",str
+"Which of the following best describes the bullying, harassment or threatening behavior you experienced online?: Cyberstalking",str
+"Which of the following best describes the bullying, harassment or threatening behavior you experienced online?: Threats to personal safety",str
+"Which of the following best describes the bullying, harassment or threatening behavior you experienced online?: Threats to personal property",str
+"Which of the following best describes the bullying, harassment or threatening behavior you experienced online?: Threats to safety of family and friends",str
+"Which of the following best describes the bullying, harassment or threatening behavior you experienced online?: Publishing private or identifying information online (Doxxing)",str
+Q2023HC2r97,float64
+Q2023HC2r98,float64
+"And do you think the bullying, harassment or threatening behavior you experienced online were as a result of your...: Gender",str
+"And do you think the bullying, harassment or threatening behavior you experienced online were as a result of your...: Disability",str
+"And do you think the bullying, harassment or threatening behavior you experienced online were as a result of your...: Sexual Orientation",str
+"And do you think the bullying, harassment or threatening behavior you experienced online were as a result of your...: Political Views",str
+"And do you think the bullying, harassment or threatening behavior you experienced online were as a result of your...: Religion",str
+"And do you think the bullying, harassment or threatening behavior you experienced online were as a result of your...: Race/Ethnicity",str
+"And do you think the bullying, harassment or threatening behavior you experienced online were as a result of your...: Nationality",str
+Q2023HC3r97,float64
+Q2023HC3r98,float64
+Q2023HC3r998,float64
+"Which of the following resulted from the bullying, harassment or threatening behavior you experienced online?: Felt alone, sad, and/or hopeless",str
+"Which of the following resulted from the bullying, harassment or threatening behavior you experienced online?: Felt isolated socially",str
+"Which of the following resulted from the bullying, harassment or threatening behavior you experienced online?: Withdrew from school, work, or other commitments",str
+"Which of the following resulted from the bullying, harassment or threatening behavior you experienced online?: Seriously impacted my mood and/or anxiety levels",str
+Q2023HC4r97,float64
+Q2023HC4r96,float64
+"Which of the following have you done in response to the bullying, harassment or threatening behavior you experienced online?: Blocked the person or person(s) on the platform",str
+"Which of the following have you done in response to the bullying, harassment or threatening behavior you experienced online?: Reported the person or person(s) to the platform's support or help center",str
+"Which of the following have you done in response to the bullying, harassment or threatening behavior you experienced online?: Reported the person or person(s) to school administrators (if in school) or place of employment (if in the workplace)",str
+"Which of the following have you done in response to the bullying, harassment or threatening behavior you experienced online?: Reported the person or person(s) to civil authorities",str
+"Which of the following have you done in response to the bullying, harassment or threatening behavior you experienced online?: Made the account private",str
+"Which of the following have you done in response to the bullying, harassment or threatening behavior you experienced online?: Removed personal information from the account",str
+"Which of the following have you done in response to the bullying, harassment or threatening behavior you experienced online?: Deleted your personal account on the platform (e.g. deleted Facebook/Instagram account)",str
+"Which of the following have you done in response to the bullying, harassment or threatening behavior you experienced online?: Told a trusted family member or friend about the bullying",str
+Q2023HC5r97,float64
+Q2023HC5r96,float64
+To what extent do you agree or disagree with the following statement? “I have seen content or images online that have psychologically upset me and caused me harm”,str
+"Have you, watched streaming services (Netflix, Tencent Video, STARZPlay, etc.) in the past 12 months?",str
+Some people watch several (normally three or more) episodes of a TV show back to back. This is known as binge-watching. Have you ever experienced this yourself?,str
+I watch TV shows more often than I should : Which of the following best describes how frequently each of the following occur?,str
+I sometimes mislead my family/friends about how much time I’ve been spending watching TV : Which of the following best describes how frequently each of the following occur?,str
+My family express their disapproval on my spending what they claim is too much time watching TV shows/streaming content : Which of the following best describes how frequently each of the following occur?,str
+Which of the following would you say is the biggest reason why you do not binge-watch content?: Not enough quality content available,str
+Which of the following would you say is the biggest reason why you do not binge-watch content?: I don’t have the time to watch multiple episodes with my work and personal commitments,str
+Which of the following would you say is the biggest reason why you do not binge-watch content?: I do not want the series I enjoy to end quickly,str
+Which of the following would you say is the biggest reason why you do not binge-watch content?: It is against my religious belief,str
+Which of the following would you say is the biggest reason why you do not binge-watch content?: I cannot afford the data/internet costs required,str
+Which of the following would you say is the biggest reason why you do not binge-watch content?: I do not have the internet bandwidth required,str
+Which of the following would you say is the biggest reason why you do not binge-watch content?: It causes disruption to my sleep patterns,str
+Which of the following would you say is the biggest reason why you do not binge-watch content?: It causes me to be sedentary,str
+Which of the following would you say is the biggest reason why you do not binge-watch content?: It takes time from other activities I would rather do,str
+Which of the following would you say is the biggest reason why you do not binge-watch content?: It has a negative impact on my physical health,str
+Which of the following would you say is the biggest reason why you do not binge-watch content?: It has a negative impact on my mental health,str
+Which of the following would you say is the biggest reason why you do not binge-watch content?: It has a negative impact on my productivity,str
+Which of the following would you say is the biggest reason why you do not binge-watch content?: It has a negative impact on my social interactions,str
+Which of the following would you say is the biggest reason why you do not binge-watch content?: I am worried I may become addicted,str
+Q2023NOBINGEr97,float64
+Q2023NOBINGEr98,float64
+"Have you played electronic games (online games, video games, mobile phone games, etc.) in the past 12 months?",str
+"Do you play video games with friends you know in real life, online friends or complete strangers?: I play with friends I know in real/ offline life",str
+"Do you play video games with friends you know in real life, online friends or complete strangers?: I play with friends I only know online",str
+"Do you play video games with friends you know in real life, online friends or complete strangers?: I play with complete strangers",str
+Q2023GG1r96,float64
+Q2023GG1r98,float64
+Which of the following devices/formats is the platform you use most often to play games?,str
+"And, in a typical week how many hours do you spend gaming?",float64
+Which of the following best describes how much time you spend playing video games?,str
+"In the past 12 months, when gaming have you thought gaming has become the dominant activity in your daily life : ",str
+"In the past 12 months, when gaming have you felt more irritability, anxiety or even sadness when you try to either reduce or stop your gaming activity ",str
+"In the past 12 months, when gaming have you felt the need to spend increasing amount of time engaged gaming in order to achieve satisfaction or pleasure",str
+"In the past 12 months, when gaming have you failed when trying to control or cease your gaming activity",str
+"In the past 12 months, when gaming have you lost interests in previous hobbies and other entertainment activities as a result of your engagement with the game",str
+"In the past 12 months, when gaming have you continued your gaming activity despite knowing it was causing problems between you and other people",str
+"In the past 12 months, when gaming have you deceived any of your family members, therapists or others because the amount of your gaming activity",str
+"In the past 12 months, when gaming have you played in order to temporarily escape or relieve a negative mood (e.g., helplessness, guilt, anxiety)",str
+"In the past 12 months, when gaming have you jeopardized or lost an important relationship, job or an educational or career opportunity because of your gaming activity",str
+I’m proud to consider myself a gamer : Do you agree or disagree with the following statements?,str
+My gaming helps me develop skills that are useful in the offline world (for example the world of work) : Do you agree or disagree with the following statements?,str
+I have made valuable friendships through gaming : Do you agree or disagree with the following statements?,str
+"If I wasn’t gaming, I would probably be doing something more harmful to my health : Do you agree or disagree with the following statements?",str
+Which of the following would you say is the biggest reason why you do you not play electronic games?: Not enough time to spend gaming,str
+Which of the following would you say is the biggest reason why you do you not play electronic games?: I cannot afford the games or console,str
+Which of the following would you say is the biggest reason why you do you not play electronic games?: It is against my religious belief,str
+Which of the following would you say is the biggest reason why you do you not play electronic games?: I cannot afford the data/internet costs required,str
+Which of the following would you say is the biggest reason why you do you not play electronic games?: I do not have the internet bandwidth required,str
+Which of the following would you say is the biggest reason why you do you not play electronic games?: It causes disruption to my sleep patterns,str
+Which of the following would you say is the biggest reason why you do you not play electronic games?: It causes me to be sedentary,str
+Which of the following would you say is the biggest reason why you do you not play electronic games?: It takes time from other activities I would rather do,str
+Which of the following would you say is the biggest reason why you do you not play electronic games?: It has a negative impact on my physical health,str
+Which of the following would you say is the biggest reason why you do you not play electronic games?: It has a negative impact on my mental health,str
+Which of the following would you say is the biggest reason why you do you not play electronic games?: It has a negative impact on my productivity,str
+Which of the following would you say is the biggest reason why you do you not play electronic games?: It has a negative impact on my social interactions,str
+Which of the following would you say is the biggest reason why you do you not play electronic games?: I am worried I may become addicted,str
+Q2023NOGAME1r97,float64
+Q2023NOGAME1r98,float64
+Which of the following would you rather be doing during your leisure time than gaming?: Reading,str
+Which of the following would you rather be doing during your leisure time than gaming?: Exercising,str
+Which of the following would you rather be doing during your leisure time than gaming?: Outdoor activities,str
+Which of the following would you rather be doing during your leisure time than gaming?: Arts and crafts,str
+Which of the following would you rather be doing during your leisure time than gaming?: Cooking and baking,str
+Which of the following would you rather be doing during your leisure time than gaming?: Listening to or making music/art,str
+Which of the following would you rather be doing during your leisure time than gaming?: Watching TV shows or movies,str
+Which of the following would you rather be doing during your leisure time than gaming?: Spending time with friends,str
+Which of the following would you rather be doing during your leisure time than gaming?: Spending time with family,str
+Which of the following would you rather be doing during your leisure time than gaming?: Learning new skills,str
+Which of the following would you rather be doing during your leisure time than gaming?: Volunteering,str
+Q2023NOGAME2r97,float64
+Q2023NOGAME2r98,float64
+Which of the following best describes how much time you spend online each day?,str
+Smartphones are designed to be addictive : How strongly do you agree or disagree with each of the following statements?,str
+Technology allows me to work more flexibly : How strongly do you agree or disagree with each of the following statements?,str
+"Technology, such as wearables, enables me to live a healthier life : How strongly do you agree or disagree with each of the following statements?",str
+"Which of the following methods, if any, have you ever used in an attempt to limit your time online?: Turned off your WiFi/disable your internet",str
+"Which of the following methods, if any, have you ever used in an attempt to limit your time online?: Used a screen time tracking app",str
+"Which of the following methods, if any, have you ever used in an attempt to limit your time online?: Deleted apps",str
+"Which of the following methods, if any, have you ever used in an attempt to limit your time online?: Made a public commitment to delete or not use certain apps",str
+"Which of the following methods, if any, have you ever used in an attempt to limit your time online?: Turned off notifications",str
+"Which of the following methods, if any, have you ever used in an attempt to limit your time online?: Used a digital self-control app",str
+"Which of the following methods, if any, have you ever used in an attempt to limit your time online?: Set usage limits",str
+"Which of the following methods, if any, have you ever used in an attempt to limit your time online?: Practiced time management",str
+"Which of the following methods, if any, have you ever used in an attempt to limit your time online?: Created screen-free time before bed",str
+Q2023H1r97,int64
+Q2023H1r96,int64
+"Cause you to skip sleep : How often does your use of technology (such as a computer or smartphone, for either work or leisure)...?",str
+"Cause you to miss a meal : How often does your use of technology (such as a computer or smartphone, for either work or leisure)...?",str
+"Result in you missing time with your family/friends : How often does your use of technology (such as a computer or smartphone, for either work or leisure)...?",str
+"Result in you missing work or school : How often does your use of technology (such as a computer or smartphone, for either work or leisure)...?",str
+"Thinking about when you spend longer than usual using digital technology, do you experience any of the following?: Dry eyes or blurred vision",str
+"Thinking about when you spend longer than usual using digital technology, do you experience any of the following?: Headache",str
+"Thinking about when you spend longer than usual using digital technology, do you experience any of the following?: Neck or back pain",str
+"Thinking about when you spend longer than usual using digital technology, do you experience any of the following?: Wrist pain",str
+"Thinking about when you spend longer than usual using digital technology, do you experience any of the following?: Decreased sleep quality",str
+"Thinking about when you spend longer than usual using digital technology, do you experience any of the following?: Tiredness",str
+QHORIZON14r96,int64
+"Thinking about when you spend longer than usual using digital technology (such as a smartphone or computer), do you subsequently experience any of the following more than normal?: Mood swings",str
+"Thinking about when you spend longer than usual using digital technology (such as a smartphone or computer), do you subsequently experience any of the following more than normal?: Feeling guilty",str
+"Thinking about when you spend longer than usual using digital technology (such as a smartphone or computer), do you subsequently experience any of the following more than normal?: Lack in confidence",str
+"Thinking about when you spend longer than usual using digital technology (such as a smartphone or computer), do you subsequently experience any of the following more than normal?: Low mood/ sadness",str
+"Thinking about when you spend longer than usual using digital technology (such as a smartphone or computer), do you subsequently experience any of the following more than normal?: Feeling anxious",str
+"Thinking about when you spend longer than usual using digital technology (such as a smartphone or computer), do you subsequently experience any of the following more than normal?: Fatigue",str
+"Thinking about when you spend longer than usual using digital technology (such as a smartphone or computer), do you subsequently experience any of the following more than normal?: Stressed",str
+"Thinking about when you spend longer than usual using digital technology (such as a smartphone or computer), do you subsequently experience any of the following more than normal?: Loneliness",str
+QHEALTH2r96,int64
+"Based on your knowledge, if you or your family member ever needed to get treatment for addiction to online content, how confident are you that you will be able to access professional help?",str
+Which of the following is closer to your opinion. My use of digital technology...,str
+Which of the following is closer to your opinion. My use of digital technology....1,str
+...the internet : Who do you think should be primarily responsible for regulation of...,str
+...new and emerging technologies : Who do you think should be primarily responsible for regulation of...,str
+...social media : Who do you think should be primarily responsible for regulation of...,str
+How confident are you in the ability of governments to regulate content on the internet?,str
+How confident are you in the ability of governments to regulate new and emerging technologies?,str
+Which of the following is closer to your opinion?,str
+Are you aware of any government policy in your country that limits what people can see online?,str
+Which of the following regulations do you think is most important?,str
+How concerned are you by the collection and analysis of your personal data while using the internet?,str
+To what extent do you trust information you see online? Please rate on a scale of 1 to 5 where 1 represents completely trusting what you see and 5 represents completely distrusting what you see.,str
+"When you doubt the validity of the information you see online, what do you do to generally check if it’s true or not?: I check information on multiple sources",str
+"When you doubt the validity of the information you see online, what do you do to generally check if it’s true or not?: I check social media comments",str
+"When you doubt the validity of the information you see online, what do you do to generally check if it’s true or not?: I check factchecking websites",str
+"When you doubt the validity of the information you see online, what do you do to generally check if it’s true or not?: I use independent review websites before ordering something online (e.g. Trustpilot)",str
+"When you doubt the validity of the information you see online, what do you do to generally check if it’s true or not?: I check reputation of the authors (e.g. by investigating their affiliations, heavy promotion of particular viewpoint)",str
+QHORIZON8r97,int64
+QHORIZON8r96,int64
+QHORIZON8r98,int64
+"Which strategies do you use to protect yourself against cyber-crime? Cyber-crime is a criminal activity conducted online, such as phishing financial fraud or identity theft Personal data examples: name and surname, living address, phone number, pictures of oneself: I don’t open emails/messages from unknown sources",str
+"Which strategies do you use to protect yourself against cyber-crime? Cyber-crime is a criminal activity conducted online, such as phishing financial fraud or identity theft Personal data examples: name and surname, living address, phone number, pictures of oneself: I make sure none of my personal details are publicly visible (by adjusted privacy settings on digital devices, using social media accounts or apps in private mode)",str
+"Which strategies do you use to protect yourself against cyber-crime? Cyber-crime is a criminal activity conducted online, such as phishing financial fraud or identity theft Personal data examples: name and surname, living address, phone number, pictures of oneself: I never use public Wi-Fi to access sensitive information such as online banking",str
+"Which strategies do you use to protect yourself against cyber-crime? Cyber-crime is a criminal activity conducted online, such as phishing financial fraud or identity theft Personal data examples: name and surname, living address, phone number, pictures of oneself: I use password manager software",str
+"Which strategies do you use to protect yourself against cyber-crime? Cyber-crime is a criminal activity conducted online, such as phishing financial fraud or identity theft Personal data examples: name and surname, living address, phone number, pictures of oneself: I have security software/firewall installed to protect my data",str
+QHORIZON9r97,int64
+QHORIZON9r96,int64
+At what age do you think it is appropriate for a child to have their own device such as a smartphone or computer?,str
+"Which, if any, of the following religions do you follow?",str
+How important is religion in your life?,str
+"During the past 7 days, how would you rate your sleep quality overall?",str
+"I lack companionship : Thinking about the following statements, how often do each of the statements below describes you.",str
+"I feel left out : Thinking about the following statements, how often do each of the statements below describes you.",str
+"I feel isolated from others : Thinking about the following statements, how often do each of the statements below describes you.",str
+"Little interest or pleasure in doing things : Over the last 2 weeks, how often have you been bothered by the following problems?",str
+"Feeling down, depressed or hopeless : Over the last 2 weeks, how often have you been bothered by the following problems?",str
+"Feeling nervous, anxious or on edge : Over the last 2 weeks, how often have you been bothered by the following problems?",str
+"Not being able to stop or control worrying : Over the last 2 weeks, how often have you been bothered by the following problems?",str
+"Worrying too much about different things : Over the last 2 weeks, how often have you been bothered by the following problems?",str
+"Trouble relaxing : Over the last 2 weeks, how often have you been bothered by the following problems?",str
+"Being so restless that it is hard to sit still : Over the last 2 weeks, how often have you been bothered by the following problems?",str
+"Becoming easily annoyed or irritable : Over the last 2 weeks, how often have you been bothered by the following problems?",str
+"Feeling afraid as if something awful might happen : Over the last 2 weeks, how often have you been bothered by the following problems?",str
+Unnamed: 356,str
+Weight Variable,float64
+Dummy Variable (Not used),float64
+PHQ1,str
+PHQ2,float64
+This is the total score for depression as per the PHQ2 the WHO screening tool for depression,float64
+This indicates if the PHQ (depression score) is above or below the cut-off,str
+This is a recoding of METRIC_A14_QGAD1 - The GAD7 is the WHO measure for generalized anxiety,str
+This is a recoding of METRIC_A14_QGAD2 - The GAD7 is the WHO measure for generalized anxiety,str
+This is a recoding of METRIC_A14_QGAD3 - The GAD7 is the WHO measure for generalized anxiety,str
+This is a recoding of METRIC_A14_QGAD4 - The GAD7 is the WHO measure for generalized anxiety,str
+This is a recoding of METRIC_A14_QGAD5 - The GAD7 is the WHO measure for generalized anxiety,str
+This is a recoding of METRIC_A14_QGAD6 - The GAD7 is the WHO measure for generalized anxiety,str
+This is a recoding of METRIC_A14_QGAD7 - The GAD7 is the WHO measure for generalized anxiety,str
+This is the total score for Anxiety as per the GAD7 the WHO screening tool for anxiety,float64
+This indicates if the GAD7 score is above the cut-off for extreme amxiety ,str
+UCLA lonliness scale score,float64
+Above the UCLA cut-off for lonliness,str
+Positive social media use score ,float64
+This person is older than the median sample age ,str
+Has a college degree,str
+This person is looking for work,str
+This person reports having viewed content online that caused distress,str
+This person is 60 yrs or older,str
+Problematic Social Media Use Score,float64
