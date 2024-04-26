@@ -5,10 +5,10 @@ At a crossroads of urgent challenge and change, the Sync Digital Wellbeing Summi
 
 ## Notebook Authors
 * Data cleaning: 
-  Tanzim Taher
+  = Tanzim Taher
 * Data cleaning and analysis: 
-  Tanzim Taher 
-  Saif Mohammad Musfir
+  - Tanzim Taher 
+  = Saif Mohammad Musfir
 
 ## Data Analysis Report Authors
 * Tanzim Taher
@@ -18,12 +18,12 @@ At a crossroads of urgent challenge and change, the Sync Digital Wellbeing Summi
 
 ## Datasets
 * DWStatathon_USA (reference)
-  Encoded dataset. Used during cleaning.
-  https://docs.google.com/spreadsheets/d/1ZgLNou4D0xEWnYe3LnLOHdgBuMAmmxYnPY7dveXC3Zk/edit?usp=sharing
+  - Encoded dataset. Used during cleaning.
+  - https://docs.google.com/spreadsheets/d/1ZgLNou4D0xEWnYe3LnLOHdgBuMAmmxYnPY7dveXC3Zk/edit?usp=sharing
 * Sync Statathon.csv
-  Output by notebook after the dataset was cleaned.
+  - Output by notebook after the dataset was cleaned.
 * Sync Statathon Cleaned (Tanzim).csv
-  Further manual cleaning performed on the 'Sync Statathon.csv' file
+  - Further manual cleaning performed on the 'Sync Statathon.csv' file
 
 
 
