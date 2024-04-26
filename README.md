@@ -23,7 +23,9 @@ The Sync Digital Wellbeing Summit 2024 is about holding discusisons and building
 * Sync Statathon.csv
   * Output by notebook after the dataset was cleaned.
 * Sync Statathon Cleaned (Tanzim).csv
-  * Further manual cleaning performed on the 'Sync Statathon.csv' file
+  * Further manual cleaning performed on the 'Sync Statathon.csv' file.
+* declare_datatypes.csv
+  * Used to declare data types of all columns in the decoded dataset during analysis.
 
 
 
