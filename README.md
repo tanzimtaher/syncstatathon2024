@@ -15,6 +15,7 @@ The Sync Digital Wellbeing Summit 2024 is about holding discusisons and building
 * Saif Mohammad Musfir
 * Al Amin Prince
 * Arafat Bin Amin Dhrubo
+* Sohailul Islam Alvi
 
 ## Datasets
 * DWStatathon_USA (reference)
